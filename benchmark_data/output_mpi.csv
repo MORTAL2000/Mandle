@@ -1,0 +1,7 @@
+Strategy,Time
+MPI-Static_w7,5.6905
+MPI-Static_w15,13.8519
+MPI-Static-RoundRobin_w7,1.92692
+MPI-Static-RoundRobin_w15,7.88645
+MPI-Dynamic_w7,1.89093
+MPI-Dynamic_w15,11.0911

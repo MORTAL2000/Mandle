@@ -1,0 +1,13 @@
+Strategy,Time
+MPI-Static_w7_t8,61.5526
+MPI-Static_w7_t16,48.1513
+MPI-Static_w15_t8,105.661
+MPI-Static_w15_t16,76.8825
+MPI-Static-RoundRobin_w7_t8,59.7604
+MPI-Static-RoundRobin_w7_t16,37.9542
+MPI-Static-RoundRobin_w15_t8,110.45
+MPI-Static-RoundRobin_w15_t16,77.199
+MPI-Dynamic_w7_t8,58.376
+MPI-Dynamic_w7_t16,38.1165
+MPI-Dynamic_w15_t8,104.711
+MPI-Dynamic_w15_t16,71.2735
